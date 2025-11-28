@@ -25,7 +25,7 @@ The dataset contains **7 relational tables**, making it ideal for demonstrating 
 ➡️ [/data/](data)
 
 📝 **20 Business Analysis Questions**  
-➡️ [/analysis_questions/](analysis_questions)
+➡️ [/analysis_questions.txt/](analysis_questions.txt)
 
 ---
 
