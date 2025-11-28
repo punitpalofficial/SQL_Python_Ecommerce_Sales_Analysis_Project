@@ -22,7 +22,7 @@ The dataset contains **7 relational tables**, making it ideal for demonstrating 
 ➡️ [/scripts/](scripts)
 
 📊 **Datasets (CSV format)**  
-➡️ [/data/](data)
+➡️ [/dataset_link.txt/](dataset_link.txt)
 
 📝 **20 Business Analysis Questions**  
 ➡️ [/analysis_questions.txt/](analysis_questions.txt)
